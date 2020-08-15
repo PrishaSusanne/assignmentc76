@@ -1,0 +1,44 @@
+﻿1. USER STORY:
+
+
+            As an administrator:
+* We want people to sign up and login so we know they are authenticated users
+* The exchange should be strictly restricted to one object per person at a time
+
+
+As a user:
+* I want to be able to trade my objects with others if they need it
+* I want to be able to fill up a form regarding the reasons and the object I want
+* I should be able to get a notification if someone responds to my request
+* I want to confirm and thank the owner that i received their object
+
+
+As a donor:
+* I want to be able to look at the requests for objects
+* I want to filter the requests there to see only the requests related to objects I possess
+* I need a notification telling me the person i donated to has successfully received my object
+
+
+2. USER WORKFLOW
+
+
+        As a donor
+* Donor logs into thor account
+* Sees 2 tabs- Donate and request
+* Clicks on donate to see requests regarding specific objects
+* Filter option can be made available
+* Donor can look through and respond to any request they wish
+
+
+        As a user
+* User logs into their account
+* Sees 2 tabs - donate and request
+* Clicks on request
+* If there are no pending requests - they are taken to a page where a form is to be filled with vital information such as name of the object, area to be delivered, etc
+* If it is their first request, details like name,age,address,pincode have to be filled in 
+* If it is not, they can immediately submit the request
+* However if the person has a pending request, he/she cannot request another and hence, will have to wait for it to be fulfilled or cancelled
+* Once submitted, the request can be seen on the “request” screen
+
+
+3. WIREFRAME:
